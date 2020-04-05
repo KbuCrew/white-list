@@ -1,0 +1,11 @@
+{
+  "name": "white-list",
+  "version": "1.0.0",
+  "description": "Alış veriş listesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kbü crew",
+  "license": "ISC"
+}
